@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import "./App.css"
+import "../App.css"
 import TodoInput from './TodoInput'
 import Todolist from './TodoList';
 function Todo() {
